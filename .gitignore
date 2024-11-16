@@ -1,0 +1,7 @@
+# Ignorar dependências do Node.js
+backend/node_modules/
+
+# Diretórios temporários
+.DS_Store
+.env
+
